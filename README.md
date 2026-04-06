@@ -69,7 +69,7 @@ OpenCV_6.ipynb
 
 ## 🎥 Video Presentasi
 
-[Tutorial lengkap dapat ditonton di YouTube.](https://youtu.be/vEkMzkQVPPk?si=s6jY_yW9RdXhoYRp)
+(https://youtu.be/vEkMzkQVPPk?si=s6jY_yW9RdXhoYRp)
 
 ---
 
