@@ -38,7 +38,7 @@ Dalam notebook ini dijelaskan beberapa konsep penting:
 1. Clone repository ini
 
 
-git clone https://github.com/username/opencv-svm-tutorial.git
+git clone (https://github.com/Tasri22/Tugas_Kelompok_6_ML.git)
 
 
 2. Masuk ke folder project
